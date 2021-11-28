@@ -1,8 +1,4 @@
-<center> 
-  
-  ![header1](https://i.imgur.com/6WIk326.png)
-  
-</center>
+<p align="center"> <img src=https://i.imgur.com/6WIk326.png" alt="leonardo-rodenas" /> </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leonardo-rodenas&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-rodenas" /> </p>
 <h1 align="center">Hi 👋, I'm Leonardo, Leo for all my friends :grin: </h1>
@@ -35,7 +31,7 @@
 
 ---
 
-### Some of my projects: 
+<h2 align="center"> Some of my projects </h2>
 
 ### [Noticias_App:](https://github.com/Leonardo-Rodenas/Noticias_App)
 <br>
@@ -78,15 +74,20 @@
 </center>
 <br>
 
-- Application that permitts connecting to a API restfull, save the data locally in your mobile phone (using android Room) and display it in form of a RecyclerView. In this case im ussing the app to pretend selling some terrain in planet Mars (some terrains are free to buy, rent or both).
+- Application that permitts connecting to a API restfull, save the data locally in your mobile phone (using android Room) and display it in form of a RecyclerView showing its image, type (buy or rent) and price. In this case im ussing the app to pretend selling some terrain in planet Mars (some terrains are free to buy, rent or both).
 
 ---
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo-rodenas" alt="leonardo-rodenas" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-rodenas&show_icons=true&locale=en&layout=compact" alt="leonardo-rodenas" /></p>
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-rodenas&show_icons=true&locale=en" alt="leonardo-rodenas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-rodenas&show_icons=true&locale=en&layout=compact" alt="leonardo-rodenas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-rodenas&" alt="leonardo-rodenas" /></p>
+
+  
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leonardo-rodenas&show_icons=true&locale=en" alt="leonardo-rodenas" /></p>
+  
+    
+
