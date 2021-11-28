@@ -68,20 +68,20 @@
 
 ---
 
-### [Anime Quotes V2:](https://github.com/Leonardo-Rodenas/Frases-Quotes_Anime_Noviembre)
+### [API_Nasa - Venta de terrenos en marte:](https://github.com/Leonardo-Rodenas/Ejercicio_API_Nasa)
 <br>
 
 <center>
 
-  
-![20211128_174308](https://i.imgur.com/rFgWIB6.gif)
+![20211128_184748](https://i.imgur.com/VagZrZ5.gif)
   
 </center>
 <br>
 
-- Application that permitts connecting to a API restfull, and search random quotes from different anime series (you can search 10 random quotes, 10 quotes by character or 10 quotes by anime).
+- Application that permitts connecting to a API restfull, save the data locally in your mobile phone (using android Room) and display it in form of a RecyclerView. In this case im ussing the app to pretend selling some terrain in planet Mars (some terrains are free to buy, rent or both).
 
-
+---
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo-rodenas" alt="leonardo-rodenas" /></a> </p>
 
