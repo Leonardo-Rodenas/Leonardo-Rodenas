@@ -52,8 +52,34 @@
 - Application that permitts connecting to a API restfull, that brings you news from all over the world and search by some specific topics (spanish, is default lenguage) about some news that could interest you.
 
 ---
+
+### [Anime Quotes V2:](https://github.com/Leonardo-Rodenas/Frases-Quotes_Anime_Noviembre)
 <br>
 
+<center>
+
+  
+![20211128_174308](https://i.imgur.com/rFgWIB6.gif)
+  
+</center>
+<br>
+
+- Application that permitts connecting to a API restfull, and search random quotes from different anime series (you can search 10 random quotes, 10 quotes by character or 10 quotes by anime).
+
+---
+
+### [Anime Quotes V2:](https://github.com/Leonardo-Rodenas/Frases-Quotes_Anime_Noviembre)
+<br>
+
+<center>
+
+  
+![20211128_174308](https://i.imgur.com/rFgWIB6.gif)
+  
+</center>
+<br>
+
+- Application that permitts connecting to a API restfull, and search random quotes from different anime series (you can search 10 random quotes, 10 quotes by character or 10 quotes by anime).
 
 
 
