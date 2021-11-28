@@ -87,7 +87,7 @@
 
 
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leonardo-rodenas&show_icons=true&locale=en" alt="leonardo-rodenas" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardo-rodenas&show_icons=true&locale=en" alt="leonardo-rodenas" /></p>
   
     
 
