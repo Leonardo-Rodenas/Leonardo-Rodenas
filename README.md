@@ -2,18 +2,18 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leonardo-rodenas&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-rodenas" /> </p>
 <h1 align="center">Hi 👋, I'm Leonardo, Leo for all my friends :grin: </h1>
-<h3 align="center">Agricultural Engineer converted to Android Trainee programmer, facing the challenge and looking for new opportunities that can unite my two great passions (agriculture and new technologies) into one</h3>
+<h3 align="center">Agricultural Engineer converted to Fullstack Python Trainee programmer, facing the challenge and looking for new opportunities that can unite my two great passions (agriculture and new technologies) into one</h3>
 
 ---
 <br>
 
-- 🔭 I’m currently working on [Noticias_App](https://github.com/Leonardo-Rodenas/Noticias_App)
+- 🔭 I’m currently working on [Tareapps](https://github.com/Leonardo-Rodenas/Trabajos-Individuales-Modulo-7)
 
-- 🌱 I’m currently learning **Kotlin, Java, Room, MVVM, Firebase, Dependency Injection and more**
+- 🌱 I’m currently learning **Python, SQL, Javascript, CSS, Bootstrap and more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leonardo-Rodenas](https://github.com/Leonardo-Rodenas)
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Phyton | Bootstrap**
 
 - 📫 How to reach me **leo.rodenas.e@gmail.com**
 
