@@ -37,49 +37,7 @@
 
 <h2 align="center"> Some of my projects </h2>
 
-### [Noticias_App:](https://github.com/Leonardo-Rodenas/Noticias_App)
-<br>
-
-<center>
-
-  |Home, Search and Share Function|Read the whole news in our browser|
-  |----|---|
-  |![20211122_202547](https://i.imgur.com/iVQWdRA.gif)|![gif_noticia_volverAApp](https://i.imgur.com/0IYaaxO.gif)|
-  
-</center>
-<br>
-
-- Application that permitts connecting to a API restfull, that brings you news from all over the world and search by some specific topics (spanish, is default lenguage) about some news that could interest you.
-
----
-
-### [Anime Quotes V2:](https://github.com/Leonardo-Rodenas/Frases-Quotes_Anime_Noviembre)
-<br>
-
-<center>
-
-  
-![20211128_174308](https://i.imgur.com/rFgWIB6.gif)
-  
-</center>
-<br>
-
-- Application that permitts connecting to a API restfull, and search random quotes from different anime series (you can search 10 random quotes, 10 quotes by character or 10 quotes by anime).
-
----
-
-### [API_Nasa - Venta de terrenos en marte:](https://github.com/Leonardo-Rodenas/Ejercicio_API_Nasa)
-<br>
-
-<center>
-
-![20211128_184748](https://i.imgur.com/VagZrZ5.gif)
-  
-</center>
-<br>
-
-- Application that permitts connecting to a API restfull, save the data locally in your mobile phone (using android Room) and display it in form of a RecyclerView showing its image, type (buy or rent) and price. In this case im ussing the app to pretend selling some terrain in planet Mars (some terrains are free to buy, rent or both).
-
+## UNDER CONSTRUCTION 
 ---
 <br>
 
